@@ -43,12 +43,9 @@ Less fluffy breads that can still be used for sandwiches, enumerated from my mos
 2. tortillas
 3. matzah
 
-***********
-Peanut and Other Butters
-***********
+### Peanut and Other Butters
 
 Peanut butter is not the only type of "butter" you can use:
-
 
 Peanut Butter: Traditional, but peanuts are a common allergy.
 Sunflower Seed Butter:  Nut-free butter avoids most allergies.
@@ -57,9 +54,8 @@ Almond Butter: Traditional, but peanuts are a common allergy.
 Hazelnut and Chocolate Butter:  Nutella can be used instead of or in addition to the traditional peanut butter.
 Butter: Toast with butter and jam is a warm, deconstructed PBJ sandwich with dairy substituted for peanuts.
 
-***********
-Jelly and Jelly Alternatives
-***********
+## Jelly and Jelly Alternatives
+
 Popularity of various jellies and jelly alternatives:
 
 Sweet spread, Votes
